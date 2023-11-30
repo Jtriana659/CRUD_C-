@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeisson.triana\\source\\repos\\PruebasDev\\PruebasDev\\PruebasDev.csproj": {}
+    "C:\\Users\\jeisson.triana\\Source\\Repos\\Jtriana659\\CRUD_C-\\PruebasDev\\PruebasDev\\PruebasDev.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeisson.triana\\source\\repos\\PruebasDev\\PruebasDev\\PruebasDev.csproj": {
+    "C:\\Users\\jeisson.triana\\Source\\Repos\\Jtriana659\\CRUD_C-\\PruebasDev\\PruebasDev\\PruebasDev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeisson.triana\\source\\repos\\PruebasDev\\PruebasDev\\PruebasDev.csproj",
+        "projectUniqueName": "C:\\Users\\jeisson.triana\\Source\\Repos\\Jtriana659\\CRUD_C-\\PruebasDev\\PruebasDev\\PruebasDev.csproj",
         "projectName": "PruebasDev",
-        "projectPath": "C:\\Users\\jeisson.triana\\source\\repos\\PruebasDev\\PruebasDev\\PruebasDev.csproj",
+        "projectPath": "C:\\Users\\jeisson.triana\\Source\\Repos\\Jtriana659\\CRUD_C-\\PruebasDev\\PruebasDev\\PruebasDev.csproj",
         "packagesPath": "C:\\Users\\jeisson.triana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeisson.triana\\source\\repos\\PruebasDev\\PruebasDev\\obj\\",
+        "outputPath": "C:\\Users\\jeisson.triana\\Source\\Repos\\Jtriana659\\CRUD_C-\\PruebasDev\\PruebasDev\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

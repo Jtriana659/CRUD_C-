@@ -17,7 +17,7 @@ namespace PruebasDev
             // En el constructor, asegúrate de que la tabla "Personas" exista en la base de datos
             CrearTablaPersonas();
         }
-
+        //Creamos tabla perosnas 
         private void CrearTablaPersonas()
         {
             using (SQLiteConnection connection = new SQLiteConnection(connectionString))
@@ -31,7 +31,7 @@ namespace PruebasDev
                 }
             }
         }
-
+        //obtenemos de la tabla los registros en una lista
         public List<Persona> ObtenerPersonas()
         {
             List<Persona> personas = new List<Persona>();
@@ -60,6 +60,8 @@ namespace PruebasDev
 
             return personas;
         }
+
+        //Agregamos perosna a la tabla
         public void AgregarPersona (Persona persona)
         {
             using (SQLiteConnection connection = new SQLiteConnection(connectionString))
@@ -75,6 +77,7 @@ namespace PruebasDev
                 }
             }
         }
+        //actualizar persona
         public void ActualizarPersona(Persona persona)
         {
             using (SQLiteConnection connection = new SQLiteConnection(connectionString))

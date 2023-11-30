@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ntcv+siBsNn9LPMSJ3gukrzbNe4YiNb8OZBNKGSySMGB6QHl6t8vziBZb6nZlr1xE6vhhwXuE3rNPeVOlkmVg==",
+  "dgSpecHash": "2VELy1V6bR+Z2kRxHwa7zK4vXGBrOrYZ8TEVYtwAE/oWYahrCFpbhz9SI1dOUb/Mq19jPTlOS7ocnMEoeYYwIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeisson.triana\\source\\repos\\PruebasDev\\PruebasDev\\PruebasDev.csproj",
+  "projectFilePath": "C:\\Users\\jeisson.triana\\Source\\Repos\\Jtriana659\\CRUD_C-\\PruebasDev\\PruebasDev\\PruebasDev.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeisson.triana\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\jeisson.triana\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

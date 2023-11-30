@@ -26,7 +26,7 @@ namespace PruebasDev
         // Método para limpiar los campos de los TextBox.
         private void LimpiarCampos()
         {
-            txtname.Text = "";
+            Edad.Text = "";
             txtedad.Text = "";
         }
 
@@ -36,7 +36,7 @@ namespace PruebasDev
             // Crea una nueva persona con los datos ingresados en los TextBox.
             Persona nuevaPersona = new Persona
             {
-                Nombre = txtname.Text,
+                Nombre = Edad.Text,
                 Edad = Convert.ToInt32(txtedad.Text)
             };
 
@@ -65,7 +65,7 @@ namespace PruebasDev
             {
                 // Obtiene la persona seleccionada y actualiza sus datos con los TextBox.
                 Persona personaSeleccionada = (Persona)dataGridView1.SelectedRows[0].DataBoundItem;
-                personaSeleccionada.Nombre = txtname.Text;
+                personaSeleccionada.Nombre = Edad.Text;
                 personaSeleccionada.Edad = Convert.ToInt32(txtedad.Text);
 
                 dataAccess.ActualizarPersona(personaSeleccionada);  // Actualiza los datos en la base de datos.
@@ -74,5 +74,9 @@ namespace PruebasDev
             }
         }
 
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
